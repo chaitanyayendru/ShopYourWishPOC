@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gCXqD/QDbgiHr2i0U2oRvYX7LvC+ncKqZ6j4ztthCP1+t7+tEUKY5RkZhxG8oT8MCYstANhyZRBVfQClz6D5VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\ShopYourWishPOC\\PricingService.Api\\PricingService.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

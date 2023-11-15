@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Test\obj\Debug\net6.0\DashboardService.Test.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Test\obj\Debug\net6.0\DashboardService.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Test\obj\Debug\net6.0\DashboardService.Test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Test\obj\Debug\net6.0\DashboardService.Test.AssemblyInfo.cs
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Test\obj\Debug\net6.0\DashboardService.Test.csproj.CoreCompileInputs.cache

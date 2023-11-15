@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Api\bin\Debug\net6.0\DashboardService.Api.deps.json
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Api\bin\Debug\net6.0\DashboardService.Api.dll
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Api\bin\Debug\net6.0\DashboardService.Api.pdb
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Api\obj\Debug\net6.0\DashboardService.Api.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Api\obj\Debug\net6.0\DashboardService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Api\obj\Debug\net6.0\DashboardService.Api.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Api\obj\Debug\net6.0\DashboardService.Api.AssemblyInfo.cs
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Api\obj\Debug\net6.0\DashboardService.Api.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Api\obj\Debug\net6.0\DashboardService.Api.dll
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Api\obj\Debug\net6.0\refint\DashboardService.Api.dll
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Api\obj\Debug\net6.0\DashboardService.Api.pdb
+C:\Users\User\source\repos\ShopYourWishPOC\DashboardService.Api\obj\Debug\net6.0\ref\DashboardService.Api.dll

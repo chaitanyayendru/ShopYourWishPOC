@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fzw1hMZlbkW2xH/gvJ3/zb4dUlzYO5zMrtQMT7mqDDBmHUx47+GLUZW3LsKf2p1wPYrvfsAIY++gBOGMCB5YUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\ShopYourWishPOC\\OrderService.Api\\OrderService.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

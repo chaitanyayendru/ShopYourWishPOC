@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VGo02XbDhhp+jMsrS3zCRS6R5g54Kfg9DI0AZA0ZoTA=",
+  "Source": "AgentPortalApiGateway",
+  "BasePath": "_content/AgentPortalApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

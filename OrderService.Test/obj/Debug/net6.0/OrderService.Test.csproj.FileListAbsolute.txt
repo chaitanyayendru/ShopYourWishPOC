@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\ShopYourWishPOC\OrderService.Test\obj\Debug\net6.0\OrderService.Test.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ShopYourWishPOC\OrderService.Test\obj\Debug\net6.0\OrderService.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ShopYourWishPOC\OrderService.Test\obj\Debug\net6.0\OrderService.Test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ShopYourWishPOC\OrderService.Test\obj\Debug\net6.0\OrderService.Test.AssemblyInfo.cs
+C:\Users\User\source\repos\ShopYourWishPOC\OrderService.Test\obj\Debug\net6.0\OrderService.Test.csproj.CoreCompileInputs.cache
